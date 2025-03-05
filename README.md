@@ -1,6 +1,6 @@
 *Rendering Arrays
 **Creatde React components from arrays of data being stored in state to display learner data.
-*** JSX, React, CSS
+*** JSX, React, CSS, HTML
 
 
 
